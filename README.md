@@ -18,9 +18,7 @@ Set `PYTHONPATH` to main project directory:
 
 Run tests and demo:
 
-* Run tests: `pytest`
 * Run demo: `python -m tictac.main`
-* Run neural net demo: `python -m tictac.main_qneural`
 
 Latest results:
 
